@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: bb28ca8d3af9aac44b82eb192ac70817
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1717298279705212019
+    second: burbuja_0
+  - first:
+      213: -4759074814242275392
+    second: burbuja_1
+  - first:
+      213: -7353533491336223152
+    second: burbuja_2
+  - first:
+      213: -911788068471360119
+    second: burbuja_3
+  - first:
+      213: -9012403381401369505
+    second: burbuja_4
+  - first:
+      213: -7735010001004768593
+    second: burbuja_5
+  - first:
+      213: -3793513248482556031
+    second: burbuja_6
+  - first:
+      213: -8954148561802927652
+    second: burbuja_7
+  - first:
+      213: -7789030598122288272
+    second: burbuja_8
+  - first:
+      213: -5002871985704339754
+    second: burbuja_9
+  - first:
+      213: -5003507651286035916
+    second: burbuja_10
+  - first:
+      213: -1101468552730108535
+    second: burbuja_11
+  - first:
+      213: 6631178111381440237
+    second: burbuja_12
+  - first:
+      213: 4136954360888843592
+    second: burbuja_13
+  - first:
+      213: 233576887159067611
+    second: burbuja_14
+  - first:
+      213: -991027736661525106
+    second: burbuja_15
+  - first:
+      213: -3036188504938775050
+    second: burbuja_16
+  - first:
+      213: -7647748440832409904
+    second: burbuja_17
+  - first:
+      213: 2732662536026438732
+    second: burbuja_18
+  - first:
+      213: 4244901651938281188
+    second: burbuja_19
+  - first:
+      213: -4185879780346623491
+    second: burbuja_20
+  - first:
+      213: -3787469878153991166
+    second: burbuja_21
+  - first:
+      213: -6669954519934851610
+    second: burbuja_22
+  - first:
+      213: -630146561503118570
+    second: burbuja_23
+  - first:
+      213: 1408503230980637570
+    second: burbuja_24
+  - first:
+      213: 7074212411683284408
+    second: burbuja_25
+  - first:
+      213: -3460749135538325843
+    second: burbuja_26
+  - first:
+      213: 7442502181589104998
+    second: burbuja_27
+  - first:
+      213: -7582963832933811839
+    second: burbuja_28
+  - first:
+      213: 8135525417900623880
+    second: burbuja_29
+  - first:
+      213: -144501135284142891
+    second: burbuja_30
+  - first:
+      213: 8096512295889158663
+    second: burbuja_31
+  - first:
+      213: 1487389980070699392
+    second: burbuja_32
+  - first:
+      213: -7353003847257123622
+    second: burbuja_33
+  - first:
+      213: -2423965357771642240
+    second: burbuja_34
+  - first:
+      213: 6017993674620629782
+    second: burbuja_35
+  - first:
+      213: 8699248516713649753
+    second: burbuja_36
+  - first:
+      213: -6923480173314828793
+    second: burbuja_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: burbuja_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 291
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374f73fcfa115d710800000000000000
+      internalID: 1717298279705212019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 288
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfb49dcbae54fdb0800000000000000
+      internalID: -4759074814242275392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 288
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05667f4104003f990800000000000000
+      internalID: -7353533491336223152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 168
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9853354259da853f0800000000000000
+      internalID: -911788068471360119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 194
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54ca07dfd28de280800000000000000
+      internalID: -9012403381401369505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 192
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2540cc269b7a490800000000000000
+      internalID: -7735010001004768593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 194
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1878575accbba5bc0800000000000000
+      internalID: -3793513248482556031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 169
+        width: 135
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd169abf2597cb380800000000000000
+      internalID: -8954148561802927652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 167
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bc54660fdc7e390800000000000000
+      internalID: -7789030598122288272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 73
+        width: 89
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6f6537f6a329ab0800000000000000
+      internalID: -5002871985704339754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 73
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43295260d48ff8ab0800000000000000
+      internalID: -5003507651286035916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 113
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d1247ef2cc6b0f0800000000000000
+      internalID: -1101468552730108535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 123
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de68c3bdb5da60c50800000000000000
+      internalID: 6631178111381440237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_13
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 117
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d58cc921a696930800000000000000
+      internalID: 4136954360888843592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 112
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd39bdaf0f4dd3300800000000000000
+      internalID: 233576887159067611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 112
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dfab136892f32f0800000000000000
+      internalID: -991027736661525106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 91
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdfff324aa4dd5d0800000000000000
+      internalID: -3036188504938775050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_17
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 106
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0def2a4005dbdd590800000000000000
+      internalID: -7647748440832409904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_18
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 93
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cbfd6291e5ce520800000000000000
+      internalID: 2732662536026438732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_19
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 99
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6004edf8be8ea30800000000000000
+      internalID: 4244901651938281188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_20
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 96
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df903fb7484c8e5c0800000000000000
+      internalID: -4185879780346623491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_21
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 98
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ca3237634307bc0800000000000000
+      internalID: -3787469878153991166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_22
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5a54bf3bf8f63a0800000000000000
+      internalID: -6669954519934851610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 44
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b3c2d7a054147f0800000000000000
+      internalID: -630146561503118570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 78
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283479bd9320c8310800000000000000
+      internalID: 1408503230980637570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 44
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5aa0825b6ac2260800000000000000
+      internalID: 7074212411683284408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 80
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da67f7f3ff2f8ffc0800000000000000
+      internalID: -3460749135538325843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_27
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66930b55d44194760800000000000000
+      internalID: 7442502181589104998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_28
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 77
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1897859f196e3c690800000000000000
+      internalID: -7582963832933811839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_29
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 64
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808c023834137e070800000000000000
+      internalID: 8135525417900623880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_30
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 65
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc7fb9abf0aefdf0800000000000000
+      internalID: -144501135284142891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_31
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 44
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7024e0439079c5070800000000000000
+      internalID: 8096512295889158663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_32
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 58
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081e69c6e4544a410800000000000000
+      internalID: 1487389980070699392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 45
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4982475f1e4f990800000000000000
+      internalID: -7353003847257123622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_34
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 58
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a2b2e89585c5ed0800000000000000
+      internalID: -2423965357771642240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_35
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6137f44cc55348350800000000000000
+      internalID: 6017993674620629782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 40
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9569f837f60f9b870800000000000000
+      internalID: 8699248516713649753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burbuja_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7061c1ce67bdaef90800000000000000
+      internalID: -6923480173314828793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      burbuja_0: 1717298279705212019
+      burbuja_1: -4759074814242275392
+      burbuja_10: -5003507651286035916
+      burbuja_11: -1101468552730108535
+      burbuja_12: 6631178111381440237
+      burbuja_13: 4136954360888843592
+      burbuja_14: 233576887159067611
+      burbuja_15: -991027736661525106
+      burbuja_16: -3036188504938775050
+      burbuja_17: -7647748440832409904
+      burbuja_18: 2732662536026438732
+      burbuja_19: 4244901651938281188
+      burbuja_2: -7353533491336223152
+      burbuja_20: -4185879780346623491
+      burbuja_21: -3787469878153991166
+      burbuja_22: -6669954519934851610
+      burbuja_23: -630146561503118570
+      burbuja_24: 1408503230980637570
+      burbuja_25: 7074212411683284408
+      burbuja_26: -3460749135538325843
+      burbuja_27: 7442502181589104998
+      burbuja_28: -7582963832933811839
+      burbuja_29: 8135525417900623880
+      burbuja_3: -911788068471360119
+      burbuja_30: -144501135284142891
+      burbuja_31: 8096512295889158663
+      burbuja_32: 1487389980070699392
+      burbuja_33: -7353003847257123622
+      burbuja_34: -2423965357771642240
+      burbuja_35: 6017993674620629782
+      burbuja_36: 8699248516713649753
+      burbuja_37: -6923480173314828793
+      burbuja_4: -9012403381401369505
+      burbuja_5: -7735010001004768593
+      burbuja_6: -3793513248482556031
+      burbuja_7: -8954148561802927652
+      burbuja_8: -7789030598122288272
+      burbuja_9: -5002871985704339754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
