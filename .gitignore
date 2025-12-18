@@ -8,3 +8,6 @@ Builds/
 *.csproj
 *.sln
 .vs/
+.vscode/
+*.sln
+*.slnx
