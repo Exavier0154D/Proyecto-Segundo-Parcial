@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 87778eecdb045cf4e9709717e48f1ca2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8270700444685195119
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_0
+  - first:
+      213: -4550026733286702994
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_1
+  - first:
+      213: -1282880045860135153
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_2
+  - first:
+      213: -4267548105469507247
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_3
+  - first:
+      213: 9219238984465977109
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_4
+  - first:
+      213: -3157687373775983641
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_5
+  - first:
+      213: 2670256323229236733
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_6
+  - first:
+      213: 897141162637016013
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_7
+  - first:
+      213: -8178998586370564815
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_8
+  - first:
+      213: -1640159362757136496
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_9
+  - first:
+      213: -3364378100453403876
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_10
+  - first:
+      213: 7734648589506367406
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_11
+  - first:
+      213: -4159337123114269164
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_12
+  - first:
+      213: -7129126896226266604
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_13
+  - first:
+      213: 88093148933614897
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_14
+  - first:
+      213: -8858197782486763497
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_15
+  - first:
+      213: -5754998735890869462
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_16
+  - first:
+      213: 2895455613299881062
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_17
+  - first:
+      213: 5697676596962035511
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_18
+  - first:
+      213: -59827381183362643
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_19
+  - first:
+      213: -4885266066704742118
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_20
+  - first:
+      213: 1465926046837924459
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_21
+  - first:
+      213: -7210913084190165649
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_22
+  - first:
+      213: -4133964461783333706
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_23
+  - first:
+      213: 4653471800524082462
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_24
+  - first:
+      213: -7003805587076686132
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_25
+  - first:
+      213: 354848473140377744
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_26
+  - first:
+      213: 5421520446824351125
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_27
+  - first:
+      213: 4306670587982636216
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_28
+  - first:
+      213: 3699579805487111826
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_29
+  - first:
+      213: -4485609838289133363
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_30
+  - first:
+      213: 3042440762145561341
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_31
+  - first:
+      213: 9132155350834727328
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_32
+  - first:
+      213: -5844899444520473296
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_33
+  - first:
+      213: -1939611108490419270
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_34
+  - first:
+      213: -3725337686394627095
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_35
+  - first:
+      213: 1657330305807905141
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_36
+  - first:
+      213: 4643562248453613341
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_37
+  - first:
+      213: 784228099725641343
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_38
+  - first:
+      213: 5602602951659034083
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_39
+  - first:
+      213: 7003519635216143105
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_40
+  - first:
+      213: 1784837576600735958
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_41
+  - first:
+      213: -4535984928852831053
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_42
+  - first:
+      213: -236883675393423194
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_43
+  - first:
+      213: 3258902939213472801
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_44
+  - first:
+      213: 5225377297797573758
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_45
+  - first:
+      213: 1841709435899489597
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_46
+  - first:
+      213: 7202570152008397695
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_47
+  - first:
+      213: -5594980544691097232
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_48
+  - first:
+      213: 786406073147294115
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_49
+  - first:
+      213: -6814759819559057429
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_50
+  - first:
+      213: -2810340873303750832
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_51
+  - first:
+      213: -1843346455155928309
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_52
+  - first:
+      213: 8317670866553733277
+    second: toppng.com-sv-enemies-rpg-maker-mv-1101x713_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6750210c3e67c270800000000000000
+      internalID: 8270700444685195119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 462
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e604aeb0bce0bd0c0800000000000000
+      internalID: -4550026733286702994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 461
+        width: 99
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fd111356b423ee0800000000000000
+      internalID: -1282880045860135153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 469
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1594997cb9f96c4c0800000000000000
+      internalID: -4267548105469507247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_4
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 462
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f0780c20151ff70800000000000000
+      internalID: 9219238984465977109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_5
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 462
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eba85e4014ad24d0800000000000000
+      internalID: -3157687373775983641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_6
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 471
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdb1557af7ae0520800000000000000
+      internalID: 2670256323229236733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_7
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 471
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb3c585229437c00800000000000000
+      internalID: 897141162637016013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 471
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dd5f0be1c5e7e80800000000000000
+      internalID: -8178998586370564815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f64dfdfbbfc39e0800000000000000
+      internalID: -1640159362757136496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 369
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c131f5061f35f41d0800000000000000
+      internalID: -3364378100453403876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 368
+        width: 99
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafc00889edf65b60800000000000000
+      internalID: 7734648589506367406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 379
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416cda37ce01746c0800000000000000
+      internalID: -4159337123114269164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_13
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 375
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41210cf0cd0401d90800000000000000
+      internalID: -7129126896226266604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 375
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d65519048f83100800000000000000
+      internalID: 88093148933614897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 370
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71839b0bc0c511580800000000000000
+      internalID: -8858197782486763497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_16
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 369
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23176814232220b0800000000000000
+      internalID: -5754998735890869462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_17
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 368
+        width: 96
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66476ad1a89be2820800000000000000
+      internalID: 2895455613299881062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 286
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7378af66da6321f40800000000000000
+      internalID: 5697676596962035511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 286
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da949b450537b2ff0800000000000000
+      internalID: -59827381183362643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_20
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 285
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a194bc4456c043cb0800000000000000
+      internalID: -4885266066704742118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_21
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 286
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6264c809f3085410800000000000000
+      internalID: 1465926046837924459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_22
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 276
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65f0a641c0bdeb90800000000000000
+      internalID: -7210913084190165649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_23
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 276
+        width: 97
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4c055893531a6c0800000000000000
+      internalID: -4133964461783333706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 285
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d098a82f3749040800000000000000
+      internalID: 4653471800524082462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_25
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 285
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cced5622deb7dce90800000000000000
+      internalID: -7003805587076686132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_26
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 284
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0983f966eccace400800000000000000
+      internalID: 354848473140377744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5958b773f1c1d3b40800000000000000
+      internalID: 5421520446824351125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4e351051e54cb30800000000000000
+      internalID: 4306670587982636216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_29
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 192
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e944c5b3c875330800000000000000
+      internalID: 3699579805487111826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 192
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc067cb2e99efb1c0800000000000000
+      internalID: -4485609838289133363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_31
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 185
+        width: 96
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfadadde0cbe83a20800000000000000
+      internalID: 3042440762145561341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_32
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 185
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9cf2848eeebbe70800000000000000
+      internalID: 9132155350834727328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_33
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03daa7d3ceeb2eea0800000000000000
+      internalID: -5844899444520473296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_34
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 191
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3e60c29fd1515e0800000000000000
+      internalID: -1939611108490419270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_35
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 191
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb9216ac11fc4cc0800000000000000
+      internalID: -3725337686394627095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 100
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5717b29d125000710800000000000000
+      internalID: 1657330305807905141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 100
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17ed77234f317040800000000000000
+      internalID: 4643562248453613341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 100
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76c60b3d4322ea00800000000000000
+      internalID: 784228099725641343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_39
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 98
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5113f53b170cd40800000000000000
+      internalID: 5602602951659034083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_40
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 94
+        width: 96
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10318828000813160800000000000000
+      internalID: 7003519635216143105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_41
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 94
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d05e07c15405c810800000000000000
+      internalID: 1784837576600735958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_42
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 97
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b493396db1fc01c0800000000000000
+      internalID: -4535984928852831053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_43
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 97
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a806136d8b66bcf0800000000000000
+      internalID: -236883675393423194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_44
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 97
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124ab41f4f2f93d20800000000000000
+      internalID: 3258902939213472801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 96
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c6d9497f4448840800000000000000
+      internalID: 5225377297797573758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_46
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 94
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d264269f01f8910800000000000000
+      internalID: 1841709435899489597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_47
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73ba44746ba4f360800000000000000
+      internalID: 7202570152008397695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_48
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071377c86d2aa52b0800000000000000
+      internalID: -5594980544691097232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_49
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1872f2820e9ea00800000000000000
+      internalID: 786406073147294115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_50
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7c39ddc0c1d61a0800000000000000
+      internalID: -6814759819559057429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_51
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 0
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05708f49dd9aff8d0800000000000000
+      internalID: -2810340873303750832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_52
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03947e5a2e1b66e0800000000000000
+      internalID: -1843346455155928309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sv-enemies-rpg-maker-mv-1101x713_53
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d900d8f859d4e6370800000000000000
+      internalID: 8317670866553733277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_0: 8270700444685195119
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_1: -4550026733286702994
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_10: -3364378100453403876
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_11: 7734648589506367406
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_12: -4159337123114269164
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_13: -7129126896226266604
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_14: 88093148933614897
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_15: -8858197782486763497
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_16: -5754998735890869462
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_17: 2895455613299881062
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_18: 5697676596962035511
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_19: -59827381183362643
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_2: -1282880045860135153
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_20: -4885266066704742118
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_21: 1465926046837924459
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_22: -7210913084190165649
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_23: -4133964461783333706
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_24: 4653471800524082462
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_25: -7003805587076686132
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_26: 354848473140377744
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_27: 5421520446824351125
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_28: 4306670587982636216
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_29: 3699579805487111826
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_3: -4267548105469507247
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_30: -4485609838289133363
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_31: 3042440762145561341
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_32: 9132155350834727328
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_33: -5844899444520473296
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_34: -1939611108490419270
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_35: -3725337686394627095
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_36: 1657330305807905141
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_37: 4643562248453613341
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_38: 784228099725641343
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_39: 5602602951659034083
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_4: 9219238984465977109
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_40: 7003519635216143105
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_41: 1784837576600735958
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_42: -4535984928852831053
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_43: -236883675393423194
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_44: 3258902939213472801
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_45: 5225377297797573758
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_46: 1841709435899489597
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_47: 7202570152008397695
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_48: -5594980544691097232
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_49: 786406073147294115
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_5: -3157687373775983641
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_50: -6814759819559057429
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_51: -2810340873303750832
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_52: -1843346455155928309
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_53: 8317670866553733277
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_6: 2670256323229236733
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_7: 897141162637016013
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_8: -8178998586370564815
+      toppng.com-sv-enemies-rpg-maker-mv-1101x713_9: -1640159362757136496
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

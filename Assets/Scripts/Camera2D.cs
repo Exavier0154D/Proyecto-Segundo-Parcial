@@ -1,5 +1,6 @@
 using UnityEngine;
 
+
 public class Camera2D : MonoBehaviour
 {
     public Transform targetPlayer;
@@ -8,6 +9,7 @@ public class Camera2D : MonoBehaviour
     public float smoothSpeed = 5f;
 
     SpriteRenderer playerSR;
+
 
     void Start()
     {
