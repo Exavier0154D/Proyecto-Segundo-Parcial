@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 70ee34460592b754c8193e90d9e38c16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8967140202324667789
+    second: Botsotron_0
+  - first:
+      213: 9085488937647092822
+    second: Botsotron_1
+  - first:
+      213: -4148660791755556119
+    second: Botsotron_2
+  - first:
+      213: -6541814065493048095
+    second: Botsotron_3
+  - first:
+      213: 5754408960886277699
+    second: Botsotron_4
+  - first:
+      213: -5466499803420878189
+    second: Botsotron_5
+  - first:
+      213: -3863414252258471856
+    second: Botsotron_6
+  - first:
+      213: 5141894857908731001
+    second: Botsotron_7
+  - first:
+      213: -8376346964889050831
+    second: Botsotron_8
+  - first:
+      213: -8251085852526085833
+    second: Botsotron_9
+  - first:
+      213: 4323702923077171743
+    second: Botsotron_10
+  - first:
+      213: -232534804734943126
+    second: Botsotron_11
+  - first:
+      213: -3479747810638335327
+    second: Botsotron_12
+  - first:
+      213: -4666225085427631925
+    second: Botsotron_13
+  - first:
+      213: 7074156235919485147
+    second: Botsotron_14
+  - first:
+      213: -7452103947460550724
+    second: Botsotron_15
+  - first:
+      213: 8030541148976499170
+    second: Botsotron_16
+  - first:
+      213: -7710577124530706268
+    second: Botsotron_17
+  - first:
+      213: 8720647375615330655
+    second: Botsotron_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Botsotron_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1244
+        width: 185
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dafaa018ea17c70800000000000000
+      internalID: 8967140202324667789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1244
+        width: 185
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65432334d04261e70800000000000000
+      internalID: 9085488937647092822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1243
+        width: 212
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eab1dd8dfefc66c0800000000000000
+      internalID: -4148660791755556119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_3
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1245
+        width: 214
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e402a774cec635a0800000000000000
+      internalID: -6541814065493048095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 985
+        width: 199
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34683f53674cbdf40800000000000000
+      internalID: 5754408960886277699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 988
+        width: 199
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a1b5c34671324b0800000000000000
+      internalID: -5466499803420878189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 988
+        width: 227
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050d3f1f435626ac0800000000000000
+      internalID: -3863414252258471856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_7
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 987
+        width: 235
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cbe0e512eab5740800000000000000
+      internalID: 5141894857908731001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 713
+        width: 239
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131ed52b0dc31cb80800000000000000
+      internalID: -8376346964889050831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 718
+        width: 223
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7397eec12214e7d80800000000000000
+      internalID: -8251085852526085833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_10
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 718
+        width: 244
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a355c86e0e00c30800000000000000
+      internalID: 4323702923077171743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_11
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 718
+        width: 247
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60ebddb3ded5ccf0800000000000000
+      internalID: -232534804734943126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 453
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a275fe7dc375bfc0800000000000000
+      internalID: -3479747810638335327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_13
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 452
+        width: 215
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8b11de10d3e3fb0800000000000000
+      internalID: -4666225085427631925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_14
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 458
+        width: 221
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd86897bd937c2260800000000000000
+      internalID: 7074156235919485147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_15
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 452
+        width: 227
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfd35651fec49890800000000000000
+      internalID: -7452103947460550724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 203
+        width: 253
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9c6ea90a6327f60800000000000000
+      internalID: 8030541148976499170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_17
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 196
+        width: 282
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8281725f68ef490800000000000000
+      internalID: -7710577124530706268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botsotron_18
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 237
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f598efa8596f50970800000000000000
+      internalID: 8720647375615330655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Botsotron_0: 8967140202324667789
+      Botsotron_1: 9085488937647092822
+      Botsotron_10: 4323702923077171743
+      Botsotron_11: -232534804734943126
+      Botsotron_12: -3479747810638335327
+      Botsotron_13: -4666225085427631925
+      Botsotron_14: 7074156235919485147
+      Botsotron_15: -7452103947460550724
+      Botsotron_16: 8030541148976499170
+      Botsotron_17: -7710577124530706268
+      Botsotron_18: 8720647375615330655
+      Botsotron_2: -4148660791755556119
+      Botsotron_3: -6541814065493048095
+      Botsotron_4: 5754408960886277699
+      Botsotron_5: -5466499803420878189
+      Botsotron_6: -3863414252258471856
+      Botsotron_7: 5141894857908731001
+      Botsotron_8: -8376346964889050831
+      Botsotron_9: -8251085852526085833
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
